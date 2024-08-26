@@ -20,35 +20,35 @@ const Footer = () => {
           <Col md={2}>
             <h6>About</h6>
             <ul className="list-unstyled">
-              <li><a href="#">Home</a></li>
-              <li><a href="#">Submit a Game</a></li>
-              <li><a href="#">About us</a></li>
-              <li><a href="#">Contact us</a></li>
-              <li><a href="#">Blog</a></li>
-              <li><a href="#">Sitemap</a></li>
+              <li><a href="/">Home</a></li>
+              <li><a href="/">Submit a Game</a></li>
+              <li><a href="/">About us</a></li>
+              <li><a href="/">Contact us</a></li>
+              <li><a href="/">Blog</a></li>
+              <li><a href="/">Sitemap</a></li>
             </ul>
           </Col>
 
           <Col md={2}>
             <h6>Games</h6>
             <ul className="list-unstyled">
-              <li><a href="#">Sports Games</a></li>
-              <li><a href="#">Action Games</a></li>
-              <li><a href="#">Arcade Games</a></li>
-              <li><a href="#">Racing Games</a></li>
-              <li><a href="#">Adventure Games</a></li>
-              <li><a href="#">Girls Games</a></li>
+              <li><a href="/">Sports Games</a></li>
+              <li><a href="/">Action Games</a></li>
+              <li><a href="/">Arcade Games</a></li>
+              <li><a href="/">Racing Games</a></li>
+              <li><a href="/">Adventure Games</a></li>
+              <li><a href="/">Girls Games</a></li>
             </ul>
           </Col>
 
           <Col md={4}>
             <h6>Follow Us</h6>
             <ul className="list-unstyled d-flex">
-              <li className="mr-3"><a href="#"><FaFacebookF /></a></li>
-              <li className="mr-3"><a href="#"><FaTwitter /></a></li>
-              <li className="mr-3"><a href="#"><FaInstagram /></a></li>
-              <li className="mr-3"><a href="#"><FaLinkedinIn /></a></li>
-              <li><a href="#"><FaPinterestP /></a></li>
+              <li className="mr-3"><a href="/"><FaFacebookF /></a></li>
+              <li className="mr-3"><a href="/"><FaTwitter /></a></li>
+              <li className="mr-3"><a href="/"><FaInstagram /></a></li>
+              <li className="mr-3"><a href="/"><FaLinkedinIn /></a></li>
+              <li><a href="/"><FaPinterestP /></a></li>
             </ul>
           </Col>
         </Row>
